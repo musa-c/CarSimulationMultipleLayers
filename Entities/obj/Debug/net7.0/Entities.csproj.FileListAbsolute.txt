@@ -1,0 +1,12 @@
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\bin\Debug\net7.0\Entities.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\bin\Debug\net7.0\Entities.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\Entities.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\Entities.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\ref\Entities.dll

@@ -1,0 +1,15 @@
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\bin\Debug\net7.0\Entities.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
