@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccess.Concrete
+namespace DataAccess.Concrete.InMemory
 {
     public class InMemoryCarDal : ICarDal
     {
@@ -29,7 +29,7 @@ namespace DataAccess.Concrete
         public void Delete(Car car)
         {
             Car? carToDelete = _cars.FirstOrDefault(c => c.Id == car.Id);
-            if(carToDelete != null)
+            if (carToDelete != null)
             {
                 _ = _cars.Remove(carToDelete);
             }
@@ -47,7 +47,7 @@ namespace DataAccess.Concrete
         public Car GetById(int id)
         {
             Car? car = _cars.FirstOrDefault(c => c.Id == id);
-            if(car != null)
+            if (car != null)
             {
                 return car;
             }
@@ -57,7 +57,7 @@ namespace DataAccess.Concrete
         public void Update(Car car)
         {
             Car? UpdateCar = _cars.FirstOrDefault(c => c.Id == car.Id);
-            if(UpdateCar != null)
+            if (UpdateCar != null)
             {
                 UpdateCar.BrandId = car.BrandId;
                 UpdateCar.ColorId = car.ColorId;
