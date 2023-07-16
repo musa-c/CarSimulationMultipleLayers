@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entities.Abstract
+namespace Entities.DTOs
 {
-    public interface IEntity
+    public class CarDetailDto : IDto
     {
     }
 }

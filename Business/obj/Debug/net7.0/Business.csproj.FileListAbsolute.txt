@@ -15,3 +15,5 @@ D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Busi
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Business\obj\Debug\net7.0\ref\Business.dll
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Business\bin\Debug\net7.0\DataAccess.dll
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Business\bin\Debug\net7.0\DataAccess.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Business\bin\Debug\net7.0\Core.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Business\bin\Debug\net7.0\Core.pdb

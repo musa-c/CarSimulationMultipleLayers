@@ -10,3 +10,6 @@ D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Enti
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\refint\Entities.dll
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\Entities.pdb
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\ref\Entities.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\bin\Debug\net7.0\Core.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\bin\Debug\net7.0\Core.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Entities\obj\Debug\net7.0\Entities.csproj.CopyComplete

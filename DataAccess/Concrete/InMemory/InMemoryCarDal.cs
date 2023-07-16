@@ -1,5 +1,6 @@
 ﻿using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -65,12 +66,17 @@ namespace DataAccess.Concrete.InMemory
             throw new Exception("Car not found");
         }
 
-        public Car GetCarsByBrandId(int BrandId)
+        public List<CarDetailDto> GetCarDetails()
         {
             throw new NotImplementedException();
         }
 
-        public Car GetCarsByColorId(int ColorId)
+        public List<Car> GetCarsByBrandId(int BrandId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Car> GetCarsByColorId(int ColorId)
         {
             throw new NotImplementedException();
         }
