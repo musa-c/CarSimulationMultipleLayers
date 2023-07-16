@@ -18,6 +18,7 @@ namespace DataAccess.Concrete.EntitiyFramework
 
         public override void Add(Car entity)
         {
+            // bu if else olayı businees katmanında da olabilir.!!!
             if(entity.Description.Length >= 2 && entity.DailyPrice > 0)
             {
                 base.Add(entity);
@@ -40,6 +41,7 @@ namespace DataAccess.Concrete.EntitiyFramework
                              select new CarDetailDto
                              {
                                  CarId = c.Id,
+                                 Name = c.Name,
                                  BrandName = b.Name,
                                  ColorName = cl.Name,
                                  DailyPrice = c.DailyPrice,

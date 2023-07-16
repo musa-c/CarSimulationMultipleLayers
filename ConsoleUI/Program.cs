@@ -17,12 +17,23 @@ namespace ConsoleUI
             //Update(carManager);
             //Delete(carManager);
 
+            GetById(carManager);
 
             //GelAll(carManager);
             //GetCarsByBrandId(carManager);
-            GetCarDetails(carManager);
+            //GetCarDetails(carManager);
             //GetCarsByColorId(carManager);
 
+        }
+
+        private static void GetById(CarManager carManager)
+        {
+            Car car = carManager.GetById(3);
+            Console.WriteLine(car.Id);
+            Console.WriteLine(car.Name);
+            Console.WriteLine(car.Description);
+            Console.WriteLine(car.ModelYear);
+            Console.WriteLine(car.DailyPrice);
         }
 
         private static void GetCarDetails(CarManager carManager)
@@ -30,6 +41,7 @@ namespace ConsoleUI
             foreach (var item in carManager.GetCarDetails())
             {
                 Console.WriteLine(item.CarId);
+                Console.WriteLine(item.Name);
                 Console.WriteLine(item.Description);
                 Console.WriteLine(item.BrandName);
                 Console.WriteLine(item.ColorName);
@@ -84,7 +96,7 @@ namespace ConsoleUI
 
         private static void Update(CarManager carManager)
         {
-            carManager.Update(new Car { Id = 1, ColorId = 1, BrandId = 1, DailyPrice = 6556, Description = "0km", ModelYear = 2023 });
+            carManager.Update(new Car { Id = 4, Name = "Mercedes", BrandId = 1, ColorId = 1, ModelYear=2023, DailyPrice=48488, Description="şık bir mercedes"});
         }
 
         private static void Add(CarManager carManager)
