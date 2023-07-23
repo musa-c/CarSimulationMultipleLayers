@@ -24,16 +24,16 @@ namespace Business.Concrete
         {
             if(DateTime.Now.Hour == 3)
             {
-                return new ErrorResult("Araba eklenemedi saaat 3");
+                return new ErrorResult(Messages.MainenanceTime);
             }
             _carDal.Add(car);
-            return new SuccessResult("Car added");
+            return new SuccessResult(Messages.Added);
         }
 
         public IResult Delete(Car car)
         {
             _carDal.Delete(car);
-            return new SuccessResult("Car deleted");
+            return new SuccessResult(Messages.Deleted);
         }
 
         public IDataResult<List<Car>> GetAll()
@@ -72,7 +72,7 @@ namespace Business.Concrete
         public IResult Update(Car car)
         {
            _carDal.Update(car);
-            return new SuccessResult(Messages.CarUpdated);
+            return new SuccessResult(Messages.Updated);
         }
     }
 }

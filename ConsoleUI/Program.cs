@@ -11,6 +11,16 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             CarManager carManager = new(new EfCarDal());
+            //UserManager userManager = new(new EfUserDal());
+            //UserAdd(userManager);
+
+            //CustomerManager customerManager = new(new EfCustomerDal());
+            //CustomerAdd(customerManager);
+
+            RentalManager rentalManager = new(new EfRentalDal());
+            //RentalAdd(rentalManager);
+            //RentalUpdate(rentalManager);
+            RentalGetAll(rentalManager);
 
             //GetCarDetails(carManager);
             //Add(carManager);
@@ -22,8 +32,45 @@ namespace ConsoleUI
             //GelAll(carManager);
             //GetCarsByColorId(carManager);
             //GetCarDetails(carManager);
-            GetCarsByColorId(carManager);
+            //GetCarsByColorId(carManager);
 
+        }
+
+        private static void RentalUpdate(RentalManager rentalManager)
+        {
+            var result = rentalManager.Update(new Rental { Id = 2, CarId = 3, CustomerId = 2, RentDate = new DateTime(2021, 02, 15), ReturnDate = new DateTime(2023, 05, 25) });
+            Console.WriteLine(result.Message);
+        }
+
+        private static void RentalGetAll(RentalManager rentalManager)
+        {
+            var result = rentalManager.GetAll();
+            foreach (var item in result.Data)
+            {
+                Console.WriteLine(item.Id);
+                Console.WriteLine(item.CarId);
+                Console.WriteLine(item.CustomerId);
+                Console.WriteLine(item.RentDate);
+                Console.WriteLine(item.ReturnDate);
+            }
+        }
+
+        private static void RentalAdd(RentalManager rentalManager)
+        {
+            var result = rentalManager.Add(new Rental { Id = 3, CarId = 3, CustomerId = 2, RentDate = new DateTime(2023, 07, 23) });
+            Console.WriteLine(result.Message);
+        }
+
+        private static void CustomerAdd(CustomerManager customerManager)
+        {
+            var result = customerManager.Add(new Customer {Id = 2, UserId = 2, CompanyName = "HHolding" });
+            Console.WriteLine(result.Message);
+        }
+
+        private static void UserAdd(UserManager userManager)
+        {
+            var result = userManager.Add(new User { Id = 2, Email = "sdsdsa@gmail.com", FirstName = "hasan", LastName = "aslan", Password = "1112" });
+            Console.WriteLine(result.Message);
         }
 
         private static void GetById(CarManager carManager)
