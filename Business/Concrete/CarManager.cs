@@ -43,7 +43,7 @@ namespace Business.Concrete
 
         public IDataResult<Car> GetById(int id)
         {
-            if(DateTime.Now.Hour == 3)
+            if(DateTime.Now.Hour == 1)
             {
                 return new ErrorDataResult<Car>(Messages.MainenanceTime);
             }
