@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "29sD5QYZBY/7ZIcNxyJ9NxVpsP8t8xvhJkq8y6mV6NP0ZTxV0FKAFG6gAMwREa6hDLdM5krqhTSeSji2M0cfjw==",
+  "dgSpecHash": "qBfpDQN15TDZ18tHZSqR2+Ty6nbY0dxBnS1RF0lpF8T1nqDJK4zZV8YTSvl+vIwMRyiHF2aP03jhHC4PZF04bQ==",
   "success": true,
   "projectFilePath": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\Core1\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\musac\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\musac\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
     "C:\\Users\\musac\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\musac\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
     "C:\\Users\\musac\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.9\\microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
@@ -14,7 +16,8 @@
     "C:\\Users\\musac\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\musac\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\musac\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\musac\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "C:\\Users\\musac\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\musac\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
