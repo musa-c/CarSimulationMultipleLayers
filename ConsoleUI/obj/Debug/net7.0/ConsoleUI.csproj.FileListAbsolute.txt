@@ -69,3 +69,13 @@ D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\Cons
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\Core.dll
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\Core.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\Autofac.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\Autofac.Extras.DynamicProxy.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\Castle.Core.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\FluentValidation.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\ConsoleUI\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll

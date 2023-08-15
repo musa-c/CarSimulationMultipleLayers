@@ -82,3 +82,5 @@ D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\WebA
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\WebAPI\bin\Debug\net7.0\Autofac.Extras.DynamicProxy.dll
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\WebAPI\bin\Debug\net7.0\Castle.Core.dll
 D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\ReCapProject\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
