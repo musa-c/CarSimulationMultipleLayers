@@ -49,7 +49,7 @@
           "dependencies": {
             "Autofac": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.1.0, )"
             },
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
@@ -57,11 +57,11 @@
             },
             "FluentValidation": {
               "target": "Package",
-              "version": "[11.6.0, )"
+              "version": "[11.7.1, )"
             },
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.1.1, )"
             }
           },
           "imports": [
@@ -126,19 +126,19 @@
             },
             "FluentValidation": {
               "target": "Package",
-              "version": "[11.6.0, )"
+              "version": "[11.7.1, )"
             },
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
-              "version": "[2.2.2, )"
+              "version": "[2.1.34, )"
             },
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.1.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.Extensions.Configuration.Binder": {
               "target": "Package",
@@ -150,7 +150,7 @@
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.21.0, )"
+              "version": "[6.32.1, )"
             }
           },
           "imports": [
@@ -215,11 +215,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
             }
           },
           "imports": [
