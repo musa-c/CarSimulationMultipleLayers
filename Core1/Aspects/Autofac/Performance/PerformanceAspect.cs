@@ -1,0 +1,44 @@
+﻿using Castle.DynamicProxy;
+using Core.Utilities.Interceptors;
+using Core.Utilities.IoC;
+using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Core.Aspects.Autofac.Performance
+{
+    public class PerformanceAspect : MethodInterception
+    {
+        private readonly int _interval;
+        private readonly Stopwatch _stopwatch;
+
+        public PerformanceAspect(int interval)
+        { //interval -> attribute'e parametre olarak geçiyoruz mesela 5 
+            // metot çalışması 5'sn'yi geçerse beni uyarır.
+            _interval = interval;
+            _stopwatch = ServiceTool.ServiceProvider.GetService<Stopwatch>()!;
+        }
+
+        //metot başlamadn kronometreyi başlatırım.
+        protected override void OnBefore(IInvocation invocation)
+        {
+            _stopwatch.Start();
+        }
+
+        //metot bitince o ana kadar geçen süreyi hesaplarım.
+        protected override void OnAfter(IInvocation invocation)
+        {
+            if (_stopwatch.Elapsed.TotalSeconds > _interval)
+            {
+                Debug.WriteLine($"Performance : " +
+                    $"{invocation.Method.DeclaringType.FullName}.{invocation.Method.Name}" +
+                    $"-->{_stopwatch.Elapsed.TotalSeconds}");
+            }
+            _stopwatch.Reset();
+        }
+    }
+}
