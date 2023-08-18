@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\images\\01ce556a-9238-4b26-8aed-fc82c3f7c89b.jpg"
     },
     {
+      "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\13056094-977c-4cf5-b4ef-ce1f2f5ef7ff.jpg",
+      "PackagePath": "staticwebassets\\images\\13056094-977c-4cf5-b4ef-ce1f2f5ef7ff.jpg"
+    },
+    {
       "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\17b86b4e-4428-4bf3-b0a5-9fa0a7770f79.jpg",
       "PackagePath": "staticwebassets\\images\\17b86b4e-4428-4bf3-b0a5-9fa0a7770f79.jpg"
     },
@@ -13,8 +17,24 @@
       "PackagePath": "staticwebassets\\images\\55d298c7-360f-4d21-94c0-9b43f74c5151.jpg"
     },
     {
+      "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\7ca64959-6382-4826-9416-2d66e442952c.jpg",
+      "PackagePath": "staticwebassets\\images\\7ca64959-6382-4826-9416-2d66e442952c.jpg"
+    },
+    {
+      "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\83f22255-694a-472d-9878-ce763e14cb08.jpg",
+      "PackagePath": "staticwebassets\\images\\83f22255-694a-472d-9878-ce763e14cb08.jpg"
+    },
+    {
+      "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\9b8dcb5b-e1d9-4b84-8671-5740bb6a3ed9.jpg",
+      "PackagePath": "staticwebassets\\images\\9b8dcb5b-e1d9-4b84-8671-5740bb6a3ed9.jpg"
+    },
+    {
       "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\9c69907d-c19c-43b1-9ad4-35cb8eacfc64.jpg",
       "PackagePath": "staticwebassets\\images\\9c69907d-c19c-43b1-9ad4-35cb8eacfc64.jpg"
+    },
+    {
+      "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\a949b3e9-82b3-4de7-bde1-79d45d420530.jpg",
+      "PackagePath": "staticwebassets\\images\\a949b3e9-82b3-4de7-bde1-79d45d420530.jpg"
     },
     {
       "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\d4de3e28-1209-4794-a80e-22e70dba7d2e.jpg",
@@ -23,10 +43,6 @@
     {
       "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\default.png",
       "PackagePath": "staticwebassets\\images\\default.png"
-    },
-    {
-      "Id": "D:\\yazılım geliştirici yetiştirme kampı\\kendi denemelerim\\ReCapProject\\WebAPI\\wwwroot\\images\\dfba59b1-9497-4601-b9fd-5cb3af5d55fe.jpg",
-      "PackagePath": "staticwebassets\\images\\dfba59b1-9497-4601-b9fd-5cb3af5d55fe.jpg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
