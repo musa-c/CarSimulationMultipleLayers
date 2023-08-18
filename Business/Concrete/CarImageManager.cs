@@ -50,8 +50,8 @@ namespace Business.Concrete
             _fileHelper.Delete(carImage.ImagePath!);
             return new SuccessResult();
         }
-        [TransactionScopeAspect]
 
+        [TransactionScopeAspect]
         public IResult Update(IFormFile file, CarImage carImage)
         {
             _fileHelper.Update(file, carImage.ImagePath!);
