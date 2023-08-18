@@ -21,5 +21,6 @@ namespace Business.Constants
         public static readonly string SuccessfulLogin = "Başarılı giriş.";
         public static readonly string UserRegistered = "Kayıt oldu.";
         public static readonly string AccessTokenCreated = "Token oluşturuldu.";
+        public static readonly string ImageLimitExceded = "Resim sınırı aşıldı.";
     }
 }
